@@ -1,0 +1,13 @@
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.csprojAssemblyReference.cache
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.Form1.resources
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.Properties.Resources.resources
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.GenerateResource.cache
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.CoreCompileInputs.cache
+D:\RestApiBeadando\VS\RestAPI\RestAPI\bin\Debug\RestAPI.exe.config
+D:\RestApiBeadando\VS\RestAPI\RestAPI\bin\Debug\RestAPI.exe
+D:\RestApiBeadando\VS\RestAPI\RestAPI\bin\Debug\RestAPI.pdb
+D:\RestApiBeadando\VS\RestAPI\RestAPI\bin\Debug\RestSharp.dll
+D:\RestApiBeadando\VS\RestAPI\RestAPI\bin\Debug\RestSharp.xml
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.csproj.CopyComplete
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.exe
+D:\RestApiBeadando\VS\RestAPI\RestAPI\obj\Debug\RestAPI.pdb
